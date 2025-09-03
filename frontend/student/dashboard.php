@@ -110,7 +110,7 @@ if (isset($_SESSION['message']) && isset($_SESSION['message-type'])) {
                             </div>
                             
                             <div class="col-md-3 mb-3">
-                                <a href="#" class="btn btn-primary w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3">
+                                <a href="settings.php" class="btn btn-primary w-100 h-100 d-flex flex-column align-items-center justify-content-center p-3">
                                     <i class="fas fa-cogs fa-2x mb-2"></i>
                                     <span>Settings</span>
                                 </a>
